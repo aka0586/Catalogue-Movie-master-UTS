@@ -2,7 +2,9 @@
 The second, forth, and last (fifth) final project from dicoding.com online course. Create the searching movie apps with Ui/Ux from the catalogue using api.themoviedb.org.
 
 ## Penampakan 
-<img src="https://github.com/omrobbie/Catalogue-Movie-Ui-Ux/blob/master/screenshot/Screenshot_1516765430.png" width="256">&nbsp;&nbsp;<img src="https://github.com/omrobbie/Catalogue-Movie-Ui-Ux/blob/master/screenshot/Screenshot_1516765440.png" width="256">&nbsp;&nbsp;<img src="https://github.com/omrobbie/Catalogue-Movie-Ui-Ux/blob/master/screenshot/Screenshot_1516765505.png" width="256">
+<img src="https://github.com/aka0586/Catalogue-Movie-master-UTS/blob/master/Screenshots/Screenshot%20(29).png" width="256">&nbsp;&nbsp;<img src="https://github.com/aka0586/Catalogue-Movie-master-UTS/blob/master/Screenshots/Screenshot%20(30).png" width="256">&nbsp;&nbsp;
+<img src="https://github.com/aka0586/Catalogue-Movie-master-UTS/blob/master/Screenshots/Screenshot%20(31).png" width="256">&nbsp;&nbsp;<img src="https://github.com/aka0586/Catalogue-Movie-master-UTS/blob/master/Screenshots/Screenshot%20(32).png" width="256">&nbsp;&nbsp;
+<img src="https://github.com/aka0586/Catalogue-Movie-master-UTS/blob/master/Screenshots/Screenshot%20(33).png" width="256">
 
 ## Submission 2
 Untuk menyelesaikan modul Ui Ux anda harus submit aplikasi lanjutan dari modul project Fundamentals yaitu Catalogue Movie. Dengan memanfaatkan materi Ui Ux , aplikasi Catalogue Movie ditambah beberapa fitur baru.
@@ -12,7 +14,7 @@ Untuk menyelesaikan modul Ui Ux anda harus submit aplikasi lanjutan dari modul p
 2. Menggunakan recyclerview untuk menampilkan data bisa berupa list, atau card
 3. Halaman setting untuk mengganti bahasa atau localization , aplikasi harus support bahasa indonesia
 4. Memanfaatkan custom style
-5. Semua fungsi dari fitur [project Fundamentals](https://github.com/omrobbie/CatalogueMovie "Catalogue Movie Fundamentals") harus tetap berjalan
+5. Semua fungsi dari fitur [project Fundamentals](https://github.com/aka0586/Catalogue-Movie-master-UTS "Catalogue Movie Fundamentals") harus tetap berjalan
 
 ### Link API yang digunakan
 1. api.themoviedb.org/3/movie/now_playing?api_key=(APIKEY KAMU)&language=en-US
